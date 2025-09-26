@@ -13,6 +13,7 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Building a Virtual homelab                    | <a href="https://google.com">Detection Lab</a>|
+| Setting up Active Directory for IAM           | <a href="https://github.com/Imojay/Setting-up-Active-Directory-for-Identity-and-Access-Management</a>|
 
 
 ## Tools
