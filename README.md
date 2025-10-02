@@ -12,7 +12,7 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Building a Virtual homelab                    | <a href="https://google.com">Detection Lab</a>|
+| Building a Virtual homelab                    | <a href="https://github.com/Imojay/Building-a-Free-Virtual-Cybersecurity-Lab-with-Open-Source-Tools">Building a Virtual homelab</a>|
 | Setting up Active Directory for IAM           | <a href="https://github.com/Imojay/Setting-up-Active-Directory-for-Identity-and-Access-Management">Setting up Active Directory for IAM</a>|
 | Cloud security project                        | <a href="https://github.com/Imojay/Creating-cloud-EC2-instances-and-IAM-policy">Cloud security project</a>|
 
