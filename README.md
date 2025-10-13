@@ -1,7 +1,6 @@
 # About-me
 <a href="https://www.linkedin.com/in/olajumoke-uanserume-62056936b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
 I am still evolving and constantly learning in my cybersecurity journey and hoping to make a difference.
 
 ## Objective
@@ -14,7 +13,9 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 |-----------------------------------------------|----------------------------|
 | Building a Virtual homelab                    | <a href="https://github.com/Imojay/Building-a-Free-Virtual-Cybersecurity-Lab-with-Open-Source-Tools">Building a Virtual homelab</a>|
 | Setting up Active Directory for IAM           | <a href="https://github.com/Imojay/Setting-up-Active-Directory-for-Identity-and-Access-Management">Setting up Active Directory for IAM</a>|
-| Cloud security project                        | <a href="https://github.com/Imojay/Creating-cloud-EC2-instances-and-IAM-policy">Cloud security project</a>|
+| Cloud security project (EC2)                  | <a href="https://github.com/Imojay/Creating-cloud-EC2-instances-and-IAM-policy">Cloud security project</a>|
+| Cloud security project (S3)                   | <a href="https://github.com/Imojay/Amazon-Simple-Storage-Service-S3-with-IAM-permissions">Cloud security project</a>|
+
 
 
 ## Tools
