@@ -15,6 +15,7 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 | Setting up Active Directory for IAM           | <a href="https://github.com/Imojay/Setting-up-Active-Directory-for-Identity-and-Access-Management">Setting up Active Directory for IAM</a>|
 | Cloud security project (EC2)                  | <a href="https://github.com/Imojay/Creating-cloud-EC2-instances-and-IAM-policy">Cloud security project</a>|
 | Cloud security project (S3)                   | <a href="https://github.com/Imojay/Amazon-Simple-Storage-Service-S3-with-IAM-permissions">Cloud security project</a>|
+| Active and Passive Reconnaissance             | <a href="https://github.com/Imojay/Active-and-Passive-Reconnaissance-Scan">active and passive reconnaissance</a>|
 
 
 
