@@ -1,7 +1,7 @@
 # About-me
 <a href="https://www.linkedin.com/in/olajumoke-uanserume-62056936b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am still evolving and constantly learning in my cybersecurity journey and hoping to make a difference.
+Hello! I am Olajumoke Uanserume, a results-driven Cybersecurity Analyst. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ## Objective
 
@@ -18,8 +18,23 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 | Active and Passive Reconnaissance             | <a href="https://github.com/Imojay/Active-and-Passive-Reconnaissance-Scan">active and passive reconnaissance</a>|
 
 
-
 ## Tools
+VirtualBox, VMware, AWS Free Tier
+Nmap
+Splunk
+Kali Linux, Windows Server, Ubuntu
+GitHub
+
+## Projects
+# Lab Foundations
+Virtual Home Lab Build – Multi Virtual Machine environment (Windows, Linux)
+
+# Identity Access Management
+Active Directory Deployment & Hardening – Secure domain controller with baseline GPOs
+
+# Vulnerability & Risk Management
+Security Policy Development – Acceptable-Use, Password, and Access-Control policies
+Vulnerability Assessment – Network and web application scans with Nmap, OSINT, DNS Recon, whois
 
 ### Network
 <div>
@@ -48,6 +63,4 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 <img src="https://img.shields.io/badge/-CCNA-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
