@@ -16,6 +16,8 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 | Cloud security project (EC2)                  | <a href="https://github.com/Imojay/Creating-cloud-EC2-instances-and-IAM-policy">Cloud security project</a>|
 | Cloud security project (S3)                   | <a href="https://github.com/Imojay/Amazon-Simple-Storage-Service-S3-with-IAM-permissions">Cloud security project</a>|
 | Active and Passive Reconnaissance             | <a href="https://github.com/Imojay/Active-and-Passive-Reconnaissance-Scan">active and passive reconnaissance</a>|
+| Vulnerability Assessment                      | <a href="https://github.com/Imojay/Vulnerability-Scanning-using-Nessus-Tool">vulnerability assessment</a>|
+| Security Policy Development                   | <a href="https://github.com/Imojay/Security-Policy-Development">security policy development</a>|
 
 
 ## Tools
