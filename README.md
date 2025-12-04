@@ -19,6 +19,10 @@ I hope to make a difference with my knowledge and skills not just to organizatio
 | Vulnerability Scanning                        | <a href="https://github.com/Imojay/Vulnerability-Scanning-using-Nessus-Tool">vulnerability assessment</a>|
 | Vulnerability Scanning (wireshark)            | <a href="https://github.com/Imojay/Vulnerability-Scan-using-Wireshark">vulnerability assessment</a>|
 | Security Policy Development                   | <a href="https://github.com/Imojay/Security-Policy-Development">security policy development</a>|
+| Threat Hunting and Intelligence               | <a href="https://github.com/Imojay/Threat-Hunting-and-Intelligence">threat hunting and intelligence</a>|
+| Threat Modelling                              | <a href="https://github.com/Imojay/Threat-Modelling-Using-the-STRIDE-model-OWASP-and-Microsoft-">threat modelling</a>|
+| Splunk                                        | <a href="https://github.com/Imojay/Creating-Splunk-Security-Alert">splunk</a>|
+| Phishing Simulation                           | <a href="https://github.com/Imojay/Phishing-Simulation">phishing simulation</a>|
 
 
 
